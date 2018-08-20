@@ -16,7 +16,7 @@ entry_points = """
 [console_scripts]
 # script_name = remote_sensing.module:function
 # For example:
-# fibonacci = remote_sensing.skeleton:run
+fibonacci = remote_sensing.skeleton:run
 """
 
 
